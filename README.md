@@ -1,0 +1,1 @@
+# ge_pensamento_turma_s
