@@ -1,3 +1,5 @@
-# Projeto Desenvolvido durante a 3ª Jornada no Grupo de Estudos - Formadores em Ação
+# 📝Projeto Desenvolvido durante a 3ª Jornada no GE - Formadores em Ação
 
-## Pensamento Computacional Ensino Médio
+## 📚 Pensamento Computacional Ensino Médio
+
+### ❤ Turma S - Sextas (09h)
