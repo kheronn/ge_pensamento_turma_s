@@ -3,3 +3,4 @@
 ## 📚 Pensamento Computacional Ensino Médio
 
 ### ❤ Turma S - Sextas (09h)
+
