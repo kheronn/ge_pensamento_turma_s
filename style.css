@@ -19,3 +19,9 @@ body {
     color: gray;
     font-size: 20px;
 }
+
+#banner{
+    width: 80%;
+    margin: 24px;
+    padding: 16px;
+}
